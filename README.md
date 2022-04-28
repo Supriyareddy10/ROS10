@@ -1,3 +1,7 @@
+# Demo SSR
+
+This project was generated with [Angular_CLI](https://github.com/angular/angular-cli) version 7.0.6.
+
 # Written in Angular9 and Bootstrap 4
 
 RestaurantOneSolution App built using Angular 9 and Bootstrap 4
